@@ -1,0 +1,10 @@
+body {
+    background-color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: maroon;
+    font-weight: bold;
+    text-decoration: none;
+}
